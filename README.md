@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Jordi</h1>
 
-<!--
-**jorperort/jorperort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    I am a full-time data engineer. I feel a deep passion for constantly learning and tackling new challenges related to engineering. Although my main focus is on data management, I cannot deny that I am enthusiastic about addressing any development-related issues.
+</p>
 
-Here are some ideas to get you started:
+<h1 align="left">Connect 📣 with me:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/jordi-perucho-orts/">
+        <img align="center" src="https://img.shields.io/badge/linkedin-0077b5" alt="jorpeort" />
+    </a>
+</p>
